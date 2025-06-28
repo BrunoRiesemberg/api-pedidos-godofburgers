@@ -1,7 +1,7 @@
 // server.js (API de Pedidos Simples)
 
 const express = require('express');
-const fs = 'fs';
+const fs = require('fs');
 const cors = require('cors');
 const path = require('path');
 

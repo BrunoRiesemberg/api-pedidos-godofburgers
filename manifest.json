@@ -1,0 +1,21 @@
+{
+  "name": "God of Burgers",
+  "short_name": "God of Burgers",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#d9534f",
+  "description": "O cardápio virtual da God of Burgers, agora no seu celular.",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/5GGXizh.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/5GGXizh.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
